@@ -1,0 +1,2 @@
+source /Users/petrvanek/Documents/GitHub/fram/fram/build/bootloader/gdbinit/symbols
+source /Users/petrvanek/Documents/GitHub/fram/fram/build/bootloader/gdbinit/connect
