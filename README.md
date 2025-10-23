@@ -1,4 +1,4 @@
-# FRAM storage library for MB85RS64
+# FRAM storage library for MB85RS64 for ESP32 - IDF
 
 Small FRAM SPI driver and a tiny persistent store for storing POD structs with integrity and simple wear‑leveling.
 
